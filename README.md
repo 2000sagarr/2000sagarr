@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email : 2000sagarr@gmail.com
-                        Mobile no: 9325655402
+                   
 
